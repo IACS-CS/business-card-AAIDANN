@@ -1,1 +1,11 @@
 /* Your code here */
+.card-1 {
+  color: #DEB64B;
+  text-align:center;
+  font-size: 32px;
+  background-color: black;
+  margin: -25px;
+}
+
+.title {
+}
