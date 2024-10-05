@@ -3,9 +3,9 @@
 Keep track of your "To-Do" list here, including what you have already done and what you have yet to complete.
 
 ### Initial Design Decisions
-1. [ ] Choose an imaginary business to create the cards for
-2. [ ] Select a color scheme for your business card designs
-3. [ ] Choose a custom font from [Google Fonts](https://fonts.google.com/)
+1. [Y] Choose an imaginary business to create the cards for
+2. [Y] Select a color scheme for your business card designs
+3. [Y] Choose a custom font from [Google Fonts](https://fonts.google.com/)
 4. [ ] Select or create images for the business cards:
    - [ ] Create your own image, use public domain or Creative Commons, or generate with AI ([Adobe Firefly](https://firefly.adobe.com/))
    - [ ] Make sure to cite the sources for images
