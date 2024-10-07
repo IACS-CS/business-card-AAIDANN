@@ -39,3 +39,16 @@ border-radius: 350px;
   font-size: 20px;
   margin-top:15px;
 }
+.gaka{
+  width:50px;
+}
+
+  /* CSS Code generated with Hinkle's flexbox code generator */
+div.flex-container {		 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-direction: row; 
+}
+/* end generated code */
