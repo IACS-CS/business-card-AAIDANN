@@ -6,15 +6,15 @@ Keep track of your "To-Do" list here, including what you have already done and w
 1. [Y] Choose an imaginary business to create the cards for
 2. [Y] Select a color scheme for your business card designs
 3. [Y] Choose a custom font from [Google Fonts](https://fonts.google.com/)
-4. [ ] Select or create images for the business cards:
-   - [ ] Create your own image, use public domain or Creative Commons, or generate with AI ([Adobe Firefly](https://firefly.adobe.com/))
+4. [Y] Select or create images for the business cards:
+   - [Y] Create your own image, use public domain or Creative Commons, or generate with AI ([Adobe Firefly](https://firefly.adobe.com/))
    - [ ] Make sure to cite the sources for images
-5. [ ] Identify at least 4 different elements to include in your design with at least 2 different levels
+5. [Y] Identify at least 4 different elements to include in your design with at least 2 different levels
        of importance (visual heirarchy).
        
 ### Card 1: Box Model Layout
-1. [ ] Create a business card using only box model properties (margin, padding, border, width, height, etc.)
-2. [ ] Ensure no Flexbox or Grid is used
+1. [Y] Create a business card using only box model properties (margin, padding, border, width, height, etc.)
+2. [Y] Ensure no Flexbox or Grid is used
 
 ### Card 2: Flexbox and Grid Layout
 1. [ ] Create a business card using Flexbox or Grid for layout

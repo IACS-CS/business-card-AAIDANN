@@ -26,10 +26,11 @@ border-radius: 350px;
 }
 
 .thousand {
-  font-size: 10px;
+  font-size: 8px;
   display: inline-block;
   background-color: white;
-  color:black
+  color:black;
+  padding: 3px;
 }
 .sale {
   font-size: 19px;
@@ -40,15 +41,31 @@ border-radius: 350px;
   margin-top:15px;
 }
 .gaka{
-  width:50px;
+  width:65px;
 }
 
-  /* CSS Code generated with Hinkle's flexbox code generator */
+/* CSS Code generated with Hinkle's flexbox code generator */
+
 div.flex-container {		 
   display: flex;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-  flex-wrap: nowrap;
-  flex-direction: row; 
 }
 /* end generated code */
+.card-2 {
+background-color:#573c24;
+color: yellow;
+font-family: sans-serif;
+}
+
+.aditya {
+  width: 150px;
+margin-left:100px;
+margin-top:15px;
+}
+.bottom {
+  text-align: center;
+  font-size: 12px;
+  font-family: sans-serif
+}
