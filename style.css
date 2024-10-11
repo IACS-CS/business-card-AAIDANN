@@ -1,6 +1,6 @@
 /* Your code here */
 
-.poppins-regular {
+.main {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -46,26 +46,55 @@ border-radius: 350px;
 
 /* CSS Code generated with Hinkle's flexbox code generator */
 
-div.flex-container {		 
+/*div.flex-container {		 
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
 }
 /* end generated code */
-.card-2 {
+/*.card-2 {
 background-color:#573c24;
 color: yellow;
 font-family: sans-serif;
 }
-
+*/
 .aditya {
-  width: 150px;
-margin-left:100px;
-margin-top:15px;
+  width: 75px;
+margin-left:5px;
+margin-top:5px;
 }
+/*
 .bottom {
   text-align: center;
   font-size: 12px;
   font-family: sans-serif
+}*/
+
+.card-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: burlywood;
+    font-family: sans-serif;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    border-style: solid;
+    background-color: burlywood;
+}
+
+.top {
+    text-align: center;
+}
+.middle {
+  text-align:center;
 }
