@@ -44,32 +44,11 @@ border-radius: 350px;
   width:65px;
 }
 
-/* CSS Code generated with Hinkle's flexbox code generator */
-
-/*div.flex-container {		 
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-}
-/* end generated code */
-/*.card-2 {
-background-color:#573c24;
-color: yellow;
-font-family: sans-serif;
-}
-*/
 .aditya {
-  width: 75px;
+  width: 105px;
 margin-left:5px;
 margin-top:5px;
 }
-/*
-.bottom {
-  text-align: center;
-  font-size: 12px;
-  font-family: sans-serif
-}*/
 
 .card-2 {
     display: flex;
@@ -94,6 +73,7 @@ margin-top:5px;
 
 .top {
     text-align: center;
+    font-size: 32px;
 }
 .middle {
   text-align:center;
