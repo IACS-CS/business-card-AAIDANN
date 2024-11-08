@@ -6,10 +6,15 @@
   font-style: normal;
 }
 .card-1 {
-  color: #DEB64B;
+  --cocoa-brown: #D96A21ff;
+--indigo-dye: #1E3F62ff;
+--sandy-brown: #F8AD5Dff;
+--jasmine: #FCE791ff;
+--smoky-black: #17140Dff;
+  color: var(--cocoa-brown); /* #DEB64B; */
   text-align:center;
   font-size: 26px;
-  background-color: black;
+  background-color: var(--indigo-dye);
   border-style: solid;
   border-width: 4px;
   border-color:grey;
@@ -67,14 +72,17 @@ margin-top:5px;
     display: flex;
     justify-content: space-between;
     font-size: 15px;
-    border-style: solid;
+    border: 2px solid white;
     background-color: burlywood;
-}
+    padding: 10px;
+    }
 
 .top {
-    text-align: center;
-    font-size: 32px;
+  text-align: center;
+  font-size: 32px;
 }
+    
+
 .middle {
   text-align:center;
 }
